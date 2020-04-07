@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: src/gatsby-theme-blog/components
+  label: bio
+  match: "**/*"
 - type: directory
   path: content/posts
   label: Blog
