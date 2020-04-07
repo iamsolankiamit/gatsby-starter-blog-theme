@@ -7,6 +7,8 @@ sections:
 - type: document
   path: src/gatsby-theme-blog/components/bio-content.js
   label: bio
+- type: heading
+  label: Content
 - type: directory
   path: content/posts
   label: Blog
