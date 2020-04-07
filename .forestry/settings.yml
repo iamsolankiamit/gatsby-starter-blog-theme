@@ -7,7 +7,6 @@ sections:
 - type: document
   path: package.json
   label: package
-  match: "**/*"
 - type: document
   path: src/gatsby-theme-blog/components/bio-content.js
   label: bio
