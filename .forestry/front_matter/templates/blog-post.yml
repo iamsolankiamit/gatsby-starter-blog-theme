@@ -8,3 +8,8 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: meta-desc
+  type: tag_list
+  default: []
+  label: meta-desc
+  description: Add article description.
